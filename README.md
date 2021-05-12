@@ -1,6 +1,8 @@
 # portfolio-analysis-crypto
 Portfolio Construction Techniques for 4 major crypto currencies
 
+### Portfolios' performance
+
 | Portfolio | Annualized Return | Annualized Vol | Sharpe Ratio | Max Drawdown |
 |-----------|-------------------|----------------|--------------|--------------|
 | EW        | 80.39235          | 1.55133        | 50.80763     | -0.14022     |
