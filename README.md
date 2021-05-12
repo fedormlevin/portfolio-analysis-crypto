@@ -14,9 +14,9 @@ Portfolio Construction Techniques for 4 major crypto currencies
 | MSR       | 1028.29092        | 5.35077        | 188.46271    | -0.38532     |
 
 ### Individual Assets' performance
-<br>
+
 ![image info](./asstsrets.png)
-<br>
+
 
 | Asset | Annualized Return | Annualized Vol | Sharpe Ratio | Max Drawdown |
 |-------|-------------------|----------------|--------------|--------------|
