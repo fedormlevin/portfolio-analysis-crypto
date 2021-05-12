@@ -2,9 +2,9 @@
 Portfolio Construction Techniques for 4 major crypto currencies
 
 ### Portfolios' performance
-<br>
+
 ![image info](./rets.png)
-<br>
+
 
 | Portfolio | Annualized Return | Annualized Vol | Sharpe Ratio | Max Drawdown |
 |-----------|-------------------|----------------|--------------|--------------|
