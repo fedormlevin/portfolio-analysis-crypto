@@ -1,5 +1,5 @@
 # portfolio-analysis-crypto
-Portfolio Construction Techniques for 4 major crypto currencies
+Portfolio Construction - 4 major crypto currencies
 
 ![image info](./ef.png)
 
